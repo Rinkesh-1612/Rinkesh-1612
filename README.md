@@ -2,7 +2,7 @@
 - 👀 I’m interested in Stock_Market, Gaming, Formula-1
 - 🌱 I’m currently learning Python, Tensorflow
 - 💞️ I’m looking to collaborate on AlgoTrading
-- 📫 How to reach me Github, Mail-mr1280785@gmail.com
+
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can cook(some really good fastfood)
 
